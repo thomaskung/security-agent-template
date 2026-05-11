@@ -1,0 +1,8 @@
+langchain>=0.1.0
+deepagents>=0.1.0
+langchain-fireworks>=0.1.0
+tavily-python>=0.3.0
+markitdown>=0.0.1
+chromadb>=0.4.22
+python-dotenv>=1.0.0
+pytest>=8.0.0

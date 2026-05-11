@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+checkpoints.sqlite
+chroma_db/
+.env
+
+# Node / UI
+ui/node_modules/
+ui/.env.local
+ui/.next/
+ui/out/
+
+# OS
+.DS_Store
